@@ -54,7 +54,7 @@ class MyProfile extends StatelessWidget {
               ),
               SizedBox(height: 3.h,),
               Container(
-                height: 41.h,
+                height: 40.h,
                 width: 100.w,
                 child: ListView.builder(
                   shrinkWrap: true,
